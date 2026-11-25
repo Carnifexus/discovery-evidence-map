@@ -1,0 +1,5 @@
+FICTIONAL TRAINING RECORD | Finch Terminal
+Gate log, bay 4, 2032-04-08 (export clock labeled UTC).
+14:10 | Gate controller | K-17 associated with entry scan; direction awaits confirmation.
+The event field records the scan time, not the physical handoff time.
+The operator field is blank.

@@ -1,0 +1,5 @@
+FICTIONAL TRAINING RECORD | Finch Terminal
+Dispatch log, bay 4, 2032-04-08 (all times UTC).
+14:02 | Bay supervisor | Shipment K-17 transfer was complete by 14:02.
+14:08 | Bay supervisor | Checklist was signed at the desk.
+Note: Entries are manual and this extract is limited to the afternoon shift.

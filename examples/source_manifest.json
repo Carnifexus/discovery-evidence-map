@@ -1,0 +1,20 @@
+[
+  {
+    "source_id": "S-01",
+    "relative_path": "originals/dispatch-log.txt",
+    "sha256": "2de04647bc2b3f7b9343b3e4676ad9a8383a4438a24069b64b98fde0efa86d47",
+    "provenance": "Fictional dispatch export; manually entered entries."
+  },
+  {
+    "source_id": "S-02",
+    "relative_path": "originals/gate-log.txt",
+    "sha256": "b8c2790ccf84d274fb624e230099a454e1a8c8ccaf81bda690b79e4af9404ca9",
+    "provenance": "Fictional controller export; clock verification outstanding."
+  },
+  {
+    "source_id": "S-03",
+    "relative_path": "originals/witness-notes.txt",
+    "sha256": "0e34f56b834e65170e82d8a404998d9c5e58c7ada90c55a628d90f311484dce0",
+    "provenance": "Fictional interview note; account limited in scope."
+  }
+]
